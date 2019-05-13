@@ -1,19 +1,19 @@
 from processing.scrape_folder import folderScrape
 from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
 from sklearn.preprocessing import LabelEncoder
 import numpy
-
 import os
 
-def initializeData(dataPath):
-    listOfDocs = getData(dataPath)
-    tk = Tokenizer()
-    for doc in listOfDocs:
-        tk.fit_on_texts(doc.text)
-    return listOfDocs, tk
 
+def getTokenizer(listOfCorps):
+    tk = Tokenizer(num_words=5000, lower=True)
+    for corpus in listOfCorps:
+        for doc in corpus:
+            tk.fit_on_texts(doc.text)
+    return tk
 
-def getData(dataPath):
+def getDocuments(dataPath):
     listOfDocs = []
     for root, dirs, files in os.walk(dataPath):
         for dir in dirs:
@@ -21,9 +21,9 @@ def getData(dataPath):
     return listOfDocs
 
 
-
 def encodeData(texts, labels, tokenizer):
-    encoded_docs = tokenizer.texts_to_matrix(texts, 'binary')
+    encoded_docs = tokenizer.texts_to_sequences(texts)
+    encoded_docs = pad_sequences(encoded_docs, 4400, padding='post')
     unique, counts = numpy.unique(labels, return_counts=True)
     print(dict(zip(unique, counts)))
     encoded_labels = encodeLabels(labels)
