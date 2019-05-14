@@ -1,13 +1,19 @@
+'''
+Andrew Thomas
+CS 344 Final
+'''
 from keras import models, layers, utils
 from sklearn.model_selection import train_test_split
 import sys
 
 def getModel(documents, labels):
+	# Convert labels to one hot encoded arrays
     labels = utils.to_categorical(labels, len(set(labels)))
+    # Turn 20% of the data into testing
     trainText, testText , trainLabels, testLabels = train_test_split(documents, labels, test_size = 0.20)
 
     model = models.Sequential()
-    model.add(layers.Embedding(5000, 128, input_length=trainText.shape[1]))
+    model.add(layers.Embedding(5000, 64, input_length=trainText.shape[1]))
     model.add(layers.LSTM(64, return_sequences=True, dropout=0.1))
     model.add(layers.Flatten())
     model.add(layers.Dense(5, activation='softmax'))
