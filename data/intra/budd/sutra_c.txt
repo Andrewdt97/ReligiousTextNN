@@ -11,7 +11,7 @@ Bhikkhus, what is the fear for alligators? .Bhikkhus, a certain son of a clansma
 Bhikkhus, these are the four fears, that should be expected by a certain person who goes forth as a homeless, in this dispensation of the Discipline.
 The Blessed One said thus and those Bhikkhus delighted in the words of the Blessed One.
  
-Cakkavattisihananda Sutta
+$$$
 The Lion’s Roar on the Turning of the Wheel
 Thus Have I Heard:
 Once the Lord was staying among the Magadhans at Matula. Then he said: ‘Monks!’
@@ -68,7 +68,7 @@ And what is power for a monk? Here a monk, by the destruction of the corruptions
 Monks, I do not consider any power so hard to conquer as the power of Mara. It is just by this building up of wholesome states that this merit increases.
 Thus the Lord spoke, and the monks were delighted and rejoiced at his words.
  
-Cakkhu Sutta
+$$$
 The Eye
 Translated from the Pali by Thanissaro Bhikkhu
 At Savatthi. "Monks, the eye is inconstant, changeable, alterable. The ear... The nose... The tongue... The body... The mind is inconstant, changeable, alterable.
@@ -80,7 +80,7 @@ At Savatthi. "Monks, the eye is inconstant, changeable, alterable. The ear... Th
 "One who knows and sees that these phenomena are this way is called a stream-enterer, steadfast, never again destined for states of woe, headed for self-awakening." 
 Originally from http://www.accesstoinsight.org/canon/sutta/samyutta/sn25-001.html
  
-Cala Sutta 
+$$$ 
 Sister Cala
 At Savatthi: Then, early in the morning, Cala the nun put on her robes and, taking her bowl and outer robe, went into Savatthi for alms. When she had gone for alms in Savatthi and had returned from her alms round, after her meal she went to the Grove of the Blind to spend the day. Having gone deep into the Grove of the Blind, she sat down at the foot of a tree for the day's abiding.
 Then Mara the Evil One, wanting to arouse fear, "horripilation," (sic) and terror in her, wanting to make her fall from solitude, approached her and said, "What is it that you don't approve of, nun?"
@@ -111,14 +111,14 @@ if they don't discern cessation,
 return to becoming-again."
 Then Mara the Evil One -- sad and dejected at realizing, "Cala the nun knows me" -- vanished right there.
  
-Candala Sutta
+$$$
 The Outcaste
 Translated from the Pali by Thanissaro Bhikkhu
 
 "Endowed with these five qualities, a lay follower is an outcaste of a lay follower, a stain of a lay follower, a dregs of a lay follower. Which five? He/she does not have conviction in the Buddha's Awakening; is un-virtuous; is eager for protective charms and ceremonies; trusts protective charms and ceremonies, not kamma; and searches for recipients of his/her offerings outside of the Sangha, and gives offerings there first. Endowed with these five qualities, a lay follower is an outcaste of a lay follower, a stain of a lay follower, a dregs of a lay follower.
 "Endowed with these five qualities, a lay follower is a jewel of a lay follower, a lotus of a lay follower, a fine flower of a lay follower. Which five? He/she has conviction; is virtuous; is not eager for protective charms and ceremonies; trusts kamma, not protective charms and ceremonies; does not search for recipients of his/her offerings outside of the Sangha, and gives offerings here first. Endowed with these five qualities, a lay follower is a jewel of a lay follower, a lotus of a lay follower, a fine flower of a lay follower."
  
-Cankii Sutta
+$$$
 To the Brahmin Cankii
 I heard thus:
 At one time the Blessed One touring Kosala, with a large community of monks, came to the Brahmin village Opasaada. The Blessed One abode in the sporting Sala forest to the north of Opasaada. At that time the Brahmin Cankii lived in Opasaada, endowed with seven marks of a Great Man. He was supplied grass, firewood, water and grains, by king Pasenadi of Kosala as royal gifts. The Brahmin householders of Opasaada heard. The good recluse Gotama, gone forth homeless, from the clan of the Sakyas is touring the Kosala country with a large community of monks, has arrived in Opasaada. This fame has spread of that good Gotama. He is blessed, perfect and rightfully enlightened, endowed with knowledge and conduct, gone well, knows the worlds, is the incomparable tamer of those to be tamed, teacher of gods and men, enlightened and blessed. He teaches this world of gods and men, together with its Maras Brahmas, recluses and Brahmins, a Teaching, by himself known and realized. That Teaching is good at the beginning, in the middle and in the end, with meanings even in the letters. That Teaching proclaims the complete and pure holy life. It is good to see such perfect ones.
@@ -178,7 +178,7 @@ Footnotes:
 [2] Struggling is of much help for weighing. ‘Tulanaaya kho bharadvaaja ussaaho bahukaaro hoti’ This is a mental struggle. It consists of thinking and pondering to sort out the correct and comes to be right thinking. 
 [3] Right speculation is of much help for interest. ‘Chandassa kho Bharadvaaja dhammanijjhaanakhanti bahukaaraa’. Right speculation falls to the category of right thinking. So this is falling to the Noble Eightfold path, with right view at the foremost.
  
-Capala Sutta
+$$$
 Nodding
 Translated from the Pali by Thanissaro Bhikkhu
 
@@ -199,7 +199,7 @@ When this was said, Ven. Moggallana said to the Blessed One: "Briefly, lord, in 
 "There is the case, Moggallana, where a monk has heard, 'All things are unworthy of attachment.' Having heard that all things are unworthy of attachment, he fully knows all things. Fully knowing all things, he fully comprehends all things. Fully comprehending all things, then whatever feeling he experiences -- pleasure, pain, neither pleasure nor pain -- he remains focused on inconstancy, focused on dispassion, focused on cessation, focused on relinquishing with regard to that feeling. As he remains focused on inconstancy, focused on dispassion, focused on cessation, focused on relinquishing with regard to that feeling, he is un-sustained by (does not cling to) anything in the world. Un-sustained, he is not agitated. Un-agitated, he is unbound right within. He discerns: 'Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.'
 "It is in this respect, Moggallana, that a monk, in brief, is released through the ending of craving, utterly complete, utterly free from bonds, a follower of the utterly holy life, utterly consummate: foremost among human and heavenly beings."
  
-Cetana Sutta
+$$$
 Intention
 Translated from the Pali by Thanissaro Bhikkhu
 At Savatthi. "Monks, intention for forms is inconstant, changeable, alterable. Intention for sounds... Intention for smells... Intention for tastes... Intention for tactile sensations... Intention for ideas is inconstant, changeable, alterable.
@@ -212,7 +212,7 @@ At Savatthi. "Monks, intention for forms is inconstant, changeable, alterable. I
 Originally from http://www.accesstoinsight.org/canon/sutta/samyutta/sn25-007.html
  
  
-Cetana Sutta
+$$$
 An Act of Will
 Translated from the Pali by Thanissaro Bhikkhu.
 For free distribution only.
@@ -229,7 +229,7 @@ For free distribution only.
 "In this way, dispassion has knowledge & vision of release as its purpose, knowledge & vision of release as its reward. Disenchantment has dispassion as its purpose, dispassion as its reward. Knowledge & vision of things as they actually are has disenchantment as its purpose, disenchantment as its reward. Concentration has knowledge & vision of things as they actually are as its purpose, knowledge & vision of things as they actually are as its reward. Pleasure has concentration as its purpose, concentration as its reward. Serenity has pleasure as its purpose, pleasure as its reward. Rapture has serenity as its purpose, serenity as its reward. Joy has rapture as its purpose, rapture as its reward. Freedom from remorse has joy as its purpose, joy as its reward. Skillful virtues have freedom from remorse as their purpose, freedom from remorse as their reward.
 "In this way, mental qualities lead on to mental qualities, mental qualities bring mental qualities to their consummation, for the sake of going from the near to the Further Shore."
  
-Cetokhiila Sutta
+$$$
 The Arrow in the Mind
 I heard thus:
 At one time the Blessed One lived in the monastery offered by Anathapindika in Jeta’s grove in Savatthi. From there the Blessed One addressed the monks. "O! Monks, if the five arrows in the mind of the monk are not dispelled, and if the five bonds are not cut, that the monk should come to growth and development in the dispensation, is not a possibility. How are his five arrows of the mind not dispelled? Here the monk doubts and does not accept the Teacher with assurance. When he doubts and does not accept the Teacher with assurance his mind does not tend to exert and make effort to dispel. This is the first arrow in the mind not dispelled. Again the monk doubts and does not accept the Teaching with assurance. When the monk doubts and does not accept the Teaching with assurance his mind does not tend to exert and make effort to dispel. This is the second arrow in the mind not dispelled. Again the monk doubts and does not accept the Community of monks with assurance. When the monk doubts and does not accept the Community of monks with assurance his mind does not tend to exert and make effort to dispel. This is the third arrow in the mind not dispelled. Again, the monk doubts and does not accept the Training with assurance. When the monk doubts and does not accept the Training with assurance his mind does not tend to exert and make effort to dispel. This is the fourth arrow in the mind not dispelled. Again, the monk angry with the co-associates in the holy life is displeased and hurt, and his mind does not tend to exert and make effort to dispel. This is the fifth arrow in the mind not dispelled. These five arrows in the mind are not dispelled.
@@ -240,7 +240,7 @@ The monk develops the potential endowed with interest, concentration, effort, an
 It becomes possible to come to the noble end of the yoke. Like the hen that had sat on the eggs for eight, or ten or twelve days, then a desire would rise to her, why shouldn’t the chicken, come out of the shell breaking it with the nails of their feet or with the beak. Then the chicken come out of the shell safely breaking the shell with the nails of their feet or with their beak. In the same manner endowed with these fifteen things it becomes possible for the monk to attain enlightenment, it becomes possible to come to the noble end of the yoke.
 The Blessed One said thus and those monks delighted in the words of the Blessed One.
  
-Chabbisodana Sutta
+$$$
 The Six-fold Examination
 I heard thus.
 At one time the Blessed One lived in the monastery offered by Anathapindika in Jeta’s grove in Savatthi. The Blessed One addressed the Bhikkhus from there.
@@ -263,7 +263,7 @@ The Blessed One said thus and those Bhikkhus delighted in the words of the Bless
 Footnote:
 1. Seeing matter is weak, my interest waned and dissatisfied, I destroyed, ceased, gave up and released my mind from the latent tendencies of falling for and firmly holding matter. ‘ruupa.m kho aha.m aavuso, abala.m.viraaga.manassaasika.m viditvaa ye ruupe upaayupaadaanaa cetasoadhi.t.thaanaabhinivesanaanusayaa, tesa.m khayaa viraagaa nirodhaa caagaapa.tinissaggaa vimutta.m me citta.m ti pajaanaami.’ Holding matter, is something done with the mind. It is the mind’s follow up with interest and greed. So too with the other four masses of feelings, perceptions, determinations and consciousness. Thus it is the follow up with interest and greed for these five masses that have to be destroyed, ceased, given up and thus the mind should be released.
  
-Chachakka Sutta
+$$$
 The Six Sextets
 I have heard that on one occasion the Blessed One was staying near Savatthi in Jeta's Grove, Anathapindika's Monastery. There he addressed the monks: "Monks!"
 "Yes, lord," the monks responded to him.
@@ -362,7 +362,7 @@ Footnotes:
 5. When there is no coming and going, there is no disappearing and appearing. ’aagatigatiyaa asati cutuupapaato na hoti’ When the mind’s nature of coming and going is not evident, the disappearing and appearing does not happen.
 6.When there is no disappearing and appearing, there is no here or there or in between. ’cutuupapaate asati n’eva idha na hura.m na ubhaya.m antarena.’ When the mind does not disappear and appear, and when it is neither in between, it is the end of unpleasantness.
  
-Chappana Sutta
+$$$
 The Six Animals
 Translated from the Pali by Thanissaro Bhikkhu
 "Suppose that a man, wounded and festering, were to go into a swampy jungle. Its sharp-bladed grasses would pierce his feet; its thorns would scratch his festering sores. And so, from that cause, he would experience an even greater measure of pain and unhappiness. In the same way, there is the case where a certain monk, having gone to a village or to the wilderness, meets up with someone who upbraids him: 'This venerable one, acting in this way, undertaking practices in this way, is a thorn of impurity in this village.' Knowing this person to be a thorn, one should understand restraint and lack of restraint.
@@ -385,7 +385,7 @@ Translated from the Pali by Thanissaro Bhikkhu
 "The 'strong post or stake' is a term for mindfulness immersed in the body.
 "Thus you should train yourselves: 'We will develop mindfulness immersed in the body. We will pursue it, give it a means of transport, give it a grounding. We will steady it, consolidate it, and set about it properly.' That's how you should train yourselves."
  
-Chiggala Sutta
+$$$
 The Hole
 Translated from the Pali by Thanissaro Bhikkhu
 "Monks, suppose that this great earth were totally covered with water, and a man were to toss a yoke with a single hole there. A wind from the east would push it west; a wind from the west would push it east. A wind from the north would push it south; a wind from the south would push it north. And suppose a blind sea turtle were there. It would come to the surface once every one hundred years. Now what do you think: would that blind sea-turtle, coming to the surface once every one hundred years, stick his neck into the yoke with a single hole?"
@@ -509,7 +509,7 @@ The Buddha further spoke to Ánanda: 'you should carefully remember these words.
 Here ends the Sutra of the Meditation on Buddha Amitayus, spoken by Buddha Shakyamuni. 
   
  
-Culasunnatta Sutta   
+$$$   
 1. Thus I heard: On one occasion the Blessed One was living at Savatthi in the Eastern Park, the Palace of Migara's Mother. 
 2. Then when it was evening, the venerable Ánanda rose from retreat, and he went to the Blessed One, and after paying homage to him, he sat down at one side. When he had done so, he said to the Blessed One: 
 3. 'Venerable sir, once the Blessed One was living in the Sakyan country. There is a town of the Sakyans called Nagaraka; there I heard and learnt this from the Blessed One's own lips: "Now I abide much in the voiding, Ánanda." Venerable sir, was this well heard by me, well apprehended, well attended to and well remembered?' 'Certainly, Ánanda, that was well heard by you, well apprehended, well attended to and well remembered. As formerly, so now too, I abide much in the void. 
@@ -527,7 +527,7 @@ _____’Whatever monks and divines in the present enter upon and abide in a void
 _____'Therefore, Ánanda, you should train thus: "We will enter upon and abide in the void ness that is pure and unsurpassed by any other."'
 ______That is what the Blessed One said. The venerable Ánanda was satisfied, and he delighted in the Blessed One's words. 
  
-Cula-dhammasamadana Sutta 
+$$$ 
 The Shorter Discourse on Taking on Practices 
 Translated from the Pali by Thanissaro Bhikkhu
  
@@ -556,7 +556,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 Footnote:
 1. Acelaka: Often translated as "naked," but as the description shows, such a person might wear garments, although the garment would not be made of cloth.
  
-Cula-Assapura Sutta
+$$$
 The Shorter Discourse in Assapura
 I heard thus:
 At one time the Blessed One lived in the Anga country, in a hamlet named Assapura. The Blessed One addressed the Bhikkhus from there. Bhikkhus, people call you recluses, and you too acknowledge we are recluses. Bhikkhus, you, recluses, have a promise to keep. Should take upon yourself to follow that method of recluse-ship. So that our recluse-ship becomes true, and our promise carried out. May it be of much fruit to those who offer us of robes, morsel food, dwellings and requisites when ill. By that our going forth will be fruitful and full of results. [1] Bhikkhus, you should train thus.
@@ -570,7 +570,7 @@ The Blessed One said thus and those Bhikkhus delighted in the words of the Bless
 Footnotes:
 1. By that our going forth will be fruitful and full of results.’amhaakancaaya.m pabbajjaa avanjhaa bhavissati saphalaa saudraa’ To those who offer the four requisites, to the Bhikkhu, much merit will accumulate, and it will be fruitful to the Bhikkhu, when he attains some distinction above human.
  
-Cula Kammavibhanga Sutta
+$$$
 The Shorter Analysis of Action
 Translated from the Pali by Thanissaro Bhikkhu
 I have heard that on one occasion the Blessed One was staying near Savatthi in Jeta's Grove, Anathapindika's monastery. Then Subha the student, Todeyya's son, went to the Blessed One and, on arrival, exchanged courteous greetings with him. After an exchange of friendly greetings and courtesies, he sat to one side. As he was sitting there, he said to the Blessed One: "Master Gotama, what is the reason, what is the cause, why baseness and excellence are seen among human beings, among the human race? For short-lived and long-lived people are to be seen, sickly and healthy, ugly and beautiful, un-influential and influential, poor and rich, lowborn and highborn, stupid and discerning people are to be seen. So what is the reason, what is the cause, why baseness and excellence are seen among human beings, among the human race?"
@@ -604,7 +604,7 @@ The Buddha answered, "Malunkyaputta, I never said 'Follow me and I will answer y
 "Malunkyaputta, the religious life does not depend on dogma. Whether the world is eternal or not, whether the world is finite or not, whether the life principle and the body are or are not the same, and whether or not an enlightened person continues to exist after death, there undoubtedly do exist sorrow, discontent, grief and despair, the overcoming of which I make known.
 "Why then have I not answered your questions? Because they are not profitable, do not concern religious practice, and do not lead to Enlightenment."
  
-Cula Malunkyovada Sutta
+$$$
 The Shorter Instructions to Malunkya
 Translated from the Pali by Thanissaro Bhikkhu
 
@@ -629,7 +629,7 @@ Then, when it was evening, Ven. Malunkyaputta arose from seclusion and went to t
 "So, Malunkyaputta, remember what is undisclosed by me as undisclosed, and what is disclosed by me as disclosed."
 That is what the Blessed One said. Gratified, Ven. Malunkyaputta delighted in the Blessed One's words.
  
-Cula Punnama Sutta
+$$$
 The Shorter Discourse on the Full-moon Night
 Translated from the Pali by Thanissaro Bhikkhu
 I have heard that on one occasion the Blessed One was staying near Savatthi in the Eastern Monastery, the palace of Migara's mother. And on that occasion -- the uposatha of the fifteenth, the night of a very full moon -- he was sitting out in the open with the community of monks. Then, having surveyed the silent community of monks, he addressed them: "Monks, could a person of no integrity know of a person of no integrity: 'This is a person of no integrity'?"
@@ -666,7 +666,7 @@ I have heard that on one occasion the Blessed One was staying near Savatthi in t
 "This person of integrity -- thus endowed with qualities of integrity; a person of integrity in his friendship, in the way he wills, the way he gives advice, the way he speaks, the way he acts, the views he holds, and the way he gives a gift -- on the break-up of the body, after death, reappears in the destination of people of integrity. And what is the destination of people of integrity? Greatness among devas or among human beings."
 That is what the Blessed One said. Gratified, the monks delighted in the Blessed One's words.
  
-Cula Suññata Sutta
+$$$
 The Lesser Discourse on Emptiness
 Translated from the Pali by Thanissaro Bhikkhu
 I have heard that on one occasion the Blessed One was staying at Savatthi in the Eastern Monastery, the palace of Migara's mother. Then in the evening, Ven. Ánanda, coming out of seclusion, approached the Blessed One and, on arrival, having bowed down, sat down to one side. As he was sitting there, he said to the Blessed One: "On one occasion, when the Blessed One was staying among the Sakyans in a Sakyan town named Nagaraka, there -- face to face with the Blessed One -- I heard and learned this: 'I now often remain in an attitude of emptiness.' Did I hear that correctly, learn it correctly, attend to it correctly, remember it correctly?"
@@ -705,7 +705,7 @@ Release
 "Therefore, Ánanda, you should train yourselves: 'We will enter and remain in the emptiness that is pure, superior, and unsurpassed.'"
 That is what the Blessed One said. Gratified, Ven. Ánanda delighted in the Blessed One's words.
  
-Cula Vedalla Sutta
+$$$
 The Shorter Set of Questions-and-Answers
 Translated from the Pali by Thanissaro Bhikkhu 
 I have heard that on one occasion the Blessed One was staying near Rajagaha in the Bamboo Grove, the Squirrels' Sanctuary. Then Visakha the lay follower went to Dhammadinna the nun and, on arrival, having bowed down to her, sat to one side. As he was sitting there he said to her, "'Self-identification. Self-identification,' it is said, lady. Which self-identification is described by the Blessed One?"
@@ -795,7 +795,7 @@ Footnotes
 5. Once this sorrow has been used as a basis for giving rise to the discernment that leads to non-returning, the mind has no further resistance-obsession with painful feeling.
 6. Once this feeling of neither pleasure nor pain has been used as a basis for giving rise to the discernment that leads to Arahantship, the mind has no further ignorance-obsession with feelings of neither pleasure nor pain.
  
-Culadukkhakkhandha Sutta 
+$$$ 
 The Shorter Discourse On The Mass Of Suffering 
 Thus have I heard: 
 On one occasion the Blessed One was living in the Sakyan country at Kapilavatthu in Nigrodha’s Park. Then Mahanama the Sakyan went to the Blessed One, and after paying homage to him, he sat down at one side and said: "Venerable sir, I have long understood the Dhamma taught by the Blessed One thus: greed is an imperfection that defiles the mind, delusion is an imperfection that defiles the mind. Yet while I understand the Dhamma taught by the Blessed One thus, at times states of greed, hate, and delusion invade my mind and remain. I have wondered, venerable sir, what state is still un-abandoned by me internally, owing to which at times states of greed, hate, and delusion invade my mind and remain?"
@@ -828,7 +828,7 @@ But, friends, I can abide without moving my body or uttering a word, experiencin
 "That being so, the venerable Gotama abides in greater pleasure then King Bimbisara of Magadha."
 This is what the Blessed One said. Mahanama the Sakyan was satisfied and delighted in the Blessed One’s words.
  
-Culagopalaka Sutta
+$$$
 The Minor Discourse on the Cowherd
 I heard thus:
 At one time the Blessed One lived in the country of the Vajjis, in Ukkaacela on the bank of river Ganges. From there the Blessed One addressed the Bhikkhus.
@@ -843,10 +843,10 @@ The Evil One’s stream is cut, destroyed and made useless
 Bhikkhus, you that have attained appeasement and highest good rejoice!
 Footnotes:
 1. If someone will think to listen and take faith in such recluses and Brahmins not clever of this world, not clever of the other world, not clever of the domains of death, not clever of the domains of non-death, not clever of the sphere of death, not clever of the sphere of non-death, it would be for their undoing and unpleasantness for a long time.'ye hi keci samanaa vaa braahamanaa vaa akusalaa imassa lokassa akusalaa parassa lokassa akusalaa Maaradheyyassa akusalaa aMaaradeyyassa akusalaa Maccudheyyassa akusalaa aMaccudheyyassa, tesa.m ye sotabba.m saddahaatabba.m ma~n~nissanti tesa.m ta,m bhavissati diigharatta.m ahitaaya dukkhaaya.’
-To be clever of this world is the ability to show, how one could lead an accomplished life in this world to lead a righteous life, to have a right livelihood and to be doing right actions. Clever of the other world the Blessed One shows that there is another world, another birth, and instructs to avoid misbehavior by body, speech and mind, in expectation of avoiding a hellish birth in the future. Clever of the domains of death, the Blessed One shows the domains of death as the luring of sensuality, and the luring to the material world, as these are subject to death. The domain of non-death, the Blessed One shows a domain where one could overcome death. [For further reading M.1.26 Ariyapariyesana Sutta] It is the attainment of extinction. Clever of the sphere of death all attainments that do not group with the attainments of the eight noble beings are the sphere of death. However high those attainments may be, there is ultimate death for them, even Sakka and Brahma comes under the sway of death. The sphere of non- death, The Blessed One shows the sphere of the Thus Gone Ones, and the sphere of the noble disciples of the Thus Gone One as the sphere of non-death.
+$$$] It is the attainment of extinction. Clever of the sphere of death all attainments that do not group with the attainments of the eight noble beings are the sphere of death. However high those attainments may be, there is ultimate death for them, even Sakka and Brahma comes under the sway of death. The sphere of non- death, The Blessed One shows the sphere of the Thus Gone Ones, and the sphere of the noble disciples of the Thus Gone One as the sphere of non-death.
 2. Beings born spontaneously ‘opapaatikaa’ Even in this very life one could become an enterer to the stream of the Teaching, one would not find any outward evidence, that kind of change in the mind is called a spontaneous birth.
  
-Culakammavibhanga Sutta
+$$$
 The Shorter Exposition of Kamma
 Translated from the Pali by Ñanamoli Thera 
 1. Thus have I heard: On one occasion the Blessed One was living at Savatthi in Jeta's Grove, Anathapindika's Park.
@@ -875,7 +875,7 @@ Then Subha the student (Brahmin), Todeyya's son, went to the Blessed One and exc
 21. When this was said, Subha the student, Todeyya's son, said to the Blessed One: "Magnificent, Master Gotama! Magnificent, Master Gotama! The Dhamma has been made clear in many ways by Master Gotama, as though he were turning upright what had been overthrown, revealing the hidden, showing the way to one who is lost, holding up a lamp in the darkness for those with eyes to see forms.
 22. "I go to Master Gotama for refuge, and to the Dhamma and to the Sangha of Bhikkhus. From today let Master Gotama accept me as a lay follower who has gone to him for refuge for life."
  
-Cunda Sutta
+$$$
 Shariputra’s Passing Away
 Translated from the Pali by Thanissaro Bhikkhu
 On one occasion the Blessed One was staying near Savatthi in Jeta's Grove, Anathapindika's monastery. Now at that time Ven. Shariputra was staying among the Magadhans in Nalaka village -- diseased, in pain, severely ill. Cunda the novice was his attendant. Then, because of that illness, Ven. Shariputra attained total Unbinding.
@@ -889,7 +889,7 @@ So Ven. Ánanda and Cunda the novice went to the Blessed One and, on arrival, ha
 "Just as if the largest limb were to fall off of a great tree composed of heartwood, standing firm; in the same way, Shariputra has attained total Unbinding from this great community of monks composed of heartwood, standing firm. What else is there to expect? It's impossible that one could forbid anything born, existent, fabricated, and subject to disintegration from disintegrating.
 "Therefore, Ánanda, each of you should remain with your self as an island, your self as your refuge, without anything else as a refuge. Remain with the Dhamma as an island, the Dhamma as your refuge, without anything else as a refuge. And how does a monk remain with his self as an island, his self as his refuge, without anything else as a refuge? How does he remain with the Dhamma as an island, the Dhamma as his refuge, without anything else as a refuge? There is the case where a monk remains focused on the body in and of itself -- ardent, alert, and mindful -- putting aside greed and distress with reference to the world. He remains focused on feelings... mind... mental qualities in and of themselves -- ardent, alert, and mindful -- putting aside greed and distress with reference to the world. This is how a monk remains with his self as an island, his self as his refuge, without anything else as a refuge, with the Dhamma as an island, the Dhamma as his refuge, without anything else as a refuge. For those who -- now or after I am gone -- remain with their self as an island, their self as their refuge, without anything else as a refuge, with the Dhamma as an island, the Dhamma as their refuge, without anything else as a refuge, they will be the highest of the monks who desire training."
  
-Cuuladhammasamaadaana Sutta
+$$$
 The Shorter Discourse on Observances
 I heard thus:
 At one time the Blessed One was living in the monastery offered by Anathapindika in Jeta’s grove in Savatthi and the Blessed One addressed the Bhikkhus from there:
@@ -900,7 +900,7 @@ Bhikkhus, what is the observance, which is now unpleasant and brings pleasant re
 Bhikkhus, what is the observance which is now pleasant and also brings pleasant results in the future. Bhikkhus, here a certain one not greedy by nature, does not feel displeased and unpleasant on account of greed. Not angry by nature does not feel displeased and unpleasant on account of anger. Not deluded by nature does not feel displeased and unpleasant on account of delusion. He secluding the mind from sensual desires and demerit, with thoughts and thought processes and with joy and pleasant born of seclusion attained to abide in the first jhana. Again overcoming thoughts and thought processes, and appeasing the mind internally brings it to one point, and without thoughts and thought processes and with joy and pleasantness born of concentration attained to abide in the second jhana. Again with equanimity to joy and detachment abides mindful and aware experiencing pleasantness with the body and attained to abides in the third Jhana To this the noble ones say, abiding mindfully in pleasantness...Dispelling pleasantness and unpleasantness, and earlier having overcome pleasure and displeasure, without unpleasantness and pleasant-ness and with equanimity mindfulness purified, attained to abides in the fourth jhana. He after death is born in increase, in heaven. This is the observance which is pleasant now and also brings pleasant results in the future.
 The Blessed One said thus and those Bhikkhus delighted in the words of the Blessed One.
  
-Cuuladukkhakkhandha Sutta
+$$$
 The Minor Mass of Unpleasantness
 I heard thus:
 At one time the Blessed One was living in Nigrodhaa’s monastery in Kapilavatthu in the country of the Sakyas. Then the Sakya Mahánáma approached the Blessed One worshipped, sat on a side and said: "I remember the Blessed One teaching some time ago that greed is a minor defilement of the mind, anger is a minor defilement of the mind, and delusion is a minor defilement of the mind. Venerable sir, I know this teaching well that greed, anger, and delusion are minor defilements of the mind, yet on some days greed takes hold of my mind and persists, anger takes hold of my mind and persists and delusion takes hold of my mind and persists. Then it occurs to me: Why are these things not dispelled from me internally, that on a day greed takes hold of me and persists, anger too takes hold of me and persists, and delusion too takes hold of me and persists."
@@ -942,7 +942,7 @@ So then young man, the method conducive to, short life brings short life, long l
 Young man, beings are the, owners, heirs, origins, relations and refuges of actions. Action classifies beings as inferior and superior.’
 Then the young man Subha, the son of Todeyya said to the Blessed One.’ Good Gotama, now I understand, it is like something overturned is reinstalled...re...so that those who have their sight could see forms. Good Gotama has explained the Teaching in various ways now I take refuge in Good Gotama, in the Teaching and the Community of Bhikkhus. Bear me as a lay disciple who has taken refuge from today until life lasts.
  
-Cuulamalunkya Sutta
+$$$
 Advice to Venerable Malunkhyaputta.
 I heard thus.
 At one time the Blessed One was living in the monastery offered by Anathapindika in Jet’s grove in Savatthi. When venerable Malunkhyaputta was in his seclusion this thought occurred to him These views are unexplained, put aside by the Blessed One: Is the world eternal or not eternal, is it limited or unlimited? Is the soul and body the same, is the soul different from the body? Is the Thus Gone One after death. Isn’t the Thus Gone One after death? Or is it the Thus Gone One is and isn’t after death? Or the Thus Gone One neither is, nor is not after death? I do not like these things unexplained by the Blessed One. If the Blessed One explains them, I will lead the holy life under him, or else I will give up robes. These were the thoughts and discursive thoughts that occurred to venerable Malunkhyaputta in his seclusion
@@ -1059,7 +1059,7 @@ Footnotes:
 1. Attends to the single perception of remoteness. ‘arannsannam paticca manasikaroti ekattam’ The perception of remoteness is the physical displacing of the enjoyments of the five strands of sensual pleasures.
 2. With the perception of remoteness, the mind springs, gets settled and is released. ‘tassa arannasannaaya cittam pakkhandati pasiidati santitthati vimuccati.’ It is the nature of the mind to spring at a sign, if agreeable get settled there and if ready to be released, to be released.
  
-Cuulatanhaasankhaya Sutta
+$$$
 The Shorter Discourse On the Destruction of Craving
 
 I heard thus:
@@ -1072,7 +1072,7 @@ Kosiya, how did the Blessed One tell you the release through the destruction of 
 Then venerable Maha Moggallana approached the Blessed One worshipped and sat on a side and said thus to the Blessed One: Venerable sir, does the Blessed One remember explaining the release through the destruction of craving in short to a certain powerful non human. Maha Moggallana, I remember. Here, Sakka the king of gods approached worshipped me and stood on a side and asked Venerable sir, how is the Bhikkhu released with the destruction of craving in short? How does he become highly perfect and thoroughly come to the end of the yoke and the end of the holy life. Moggallana, when this was said, I said thus, to Sakka the king of gods, Here, king of gods, the Bhikkhu becomes learned, that anything is not suitable to settle in. He becomes learned, learning all things thoroughly and accurately recognizing all things. He feels whatever feelings pleasant, or unpleasant or neither unpleasant nor pleasant. He sees impermanence in these feelings. Detaching his mind from them and seeing their cessation, gives them up. Thus he abides seeing impermanence, detachment, cessation and giving up of those feelings, does not seize anything in the world. Not seizing does not worry. Not worried is internally extinguished. Birth is destroyed. What should be done is done, the holy life lived, knows there is nothing more to wish. O! king of gods, with this much done the Bhikkhu is released with the destruction of craving in short. Become highly perfect, thoroughly come to the end of the yoke and the end of the holy life. Becomes the chief among gods and men.. Moggallana, I remember explaining the release through the destruction of craving in short to Sakka the king of gods, thus.
 The Blessed One said thus and venerable Maha Moggallana delighted in the words of the Blessed One.
  
-Cuulavedalla Sutta
+$$$
 The Small Discourse Consisting of Questions and Answers
 An Interpretation by Bartholomew Maxillian Klick
 Thus has it been told to me:

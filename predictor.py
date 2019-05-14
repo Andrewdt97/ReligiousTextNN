@@ -30,32 +30,32 @@ from keras import utils
 #             correct += 1
 #     return correct, total
 
-print('Getting holy texts')
-holyTexts = getDocuments('./data/holy_texts')
+print('Getting intra texts')
+intraDocs = getDocuments('./data/intra')
 
-print('Getting writings')
-writings = getDocuments('./data/writings')
+# print('Getting writings')
+# writings = getDocuments('./data/writings')
 
 print('Creating tokenizer')
-corpuses = [holyTexts, writings]
-tokenizer = getTokenizer(corpuses)
+# corpuses = [holyTexts, writings]
+tokenizer = getTokenizer([intraDocs])
 
 print('Encoding data')
-htTexts, htLabels = extractTextAndLabels(holyTexts)
-encodedHtTexts, encodedHtLabels = encodeData(htTexts, htLabels, tokenizer)
+intraTexts, intraLabels = extractTextAndLabels(intraDocs)
+encodedIntraTexts, encodedIntraLabels = encodeData(intraTexts, intraLabels, tokenizer)
 
-wTexts, wLabels = extractTextAndLabels(writings)
-encodedWTexts, encodedWLabels = encodeData(wTexts, wLabels, tokenizer)
+# wTexts, wLabels = extractTextAndLabels(writings)
+# encodedWTexts, encodedWLabels = encodeData(wTexts, wLabels, tokenizer)
 
 print('Training holy texts')
-holyTextsModel = getModel(encodedHtTexts, encodedHtLabels)
+intraModel = getModel(encodedIntraTexts, encodedIntraLabels)
 
-print('Training writings model')
-writingsModel = getModel(encodedWTexts, encodedWLabels)
+# print('Training writings model')
+# writingsModel = getModel(encodedWTexts, encodedWLabels)
 
-print('\n\n\n')
-loss, accuracy = holyTextsModel.evaluate(encodedWTexts, utils.to_categorical(encodedWLabels, len(set(encodedWLabels))), verbose=1)
-print('Cross Accuracy is {}'.format(accuracy*100))
+# print('\n\n\n')
+# loss, accuracy = holyTextsModel.evaluate(encodedWTexts, utils.to_categorical(encodedWLabels, len(set(encodedWLabels))), verbose=1)
+# print('Cross Accuracy is {}'.format(accuracy*100))
 # predictWritingsOnHt = holyTextsModel.predict(np.array(encodedWTexts))
 # print(predictWritingsOnHt)
 # predictedClasses = np.argmax(predictWritingsOnHt, axis=1)
