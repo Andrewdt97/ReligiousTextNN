@@ -14,12 +14,12 @@ def getModel(documents, labels):
 
     model = models.Sequential()
     model.add(layers.Embedding(5000, 64, input_length=trainText.shape[1]))
-    model.add(layers.LSTM(64, return_sequences=True, dropout=0.1))
+    model.add(layers.LSTM(64, return_sequences=True, dropout=0.25))
     model.add(layers.Flatten())
     model.add(layers.Dense(5, activation='softmax'))
     # compile the model
     model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['acc'])
-    model.fit(trainText, trainLabels, epochs=15, batch_size=15)
+    model.fit(trainText, trainLabels, epochs=5, batch_size=15)
 
     loss, accuracy = model.evaluate(testText, testLabels, verbose=1)
     print('Training Accuracy is {}'.format(accuracy*100))

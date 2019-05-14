@@ -18,14 +18,14 @@ def cleanse(str):
     tokenedString = ''.join(filt).split()
 
     # Remove stop words
-    try:
-        nltk.data.find('corpora/stopwords')
-    except:
-        nltk.download('stopwords')
-    stop_words = set(nltk.corpus.stopwords.words('english'))
-    filteredListOfWords = [w for w in tokenedString if not w in stop_words]
+    # try:
+    #     nltk.data.find('corpora/stopwords')
+    # except:
+    #     nltk.download('stopwords')
+    # stop_words = set(nltk.corpus.stopwords.words('english'))
+    # filteredListOfWords = [w for w in tokenedString if not w in stop_words]
 
-    return ' '.join(filteredListOfWords)
+    return tokenedString
 
 def prepFile(fileName):
     '''
